@@ -21,7 +21,7 @@ The front-end is developed from Flask WebApp.
     
 2. Install the pre-trained model from the link-https://drive.google.com/file/d/0B5MzpY9kBtDVZ2RpVDYwWmxoSUk/edit.  
    Place this model under the model folder such that the path of the model corresponds as:  
-   `..venv/model/20170512-110547/20170512-110547.pb`
+   `../model/20170512-110547/20170512-110547.pb`
   
 3. Run the flask server with the following code:
    ```bash
