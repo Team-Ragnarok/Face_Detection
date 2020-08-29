@@ -4,7 +4,7 @@
 This project performs Multi-person face detection using MTCNN, while the main model is trained using Siamese Network(Facenet).  
 The front-end is developed from Flask WebApp.  
 
-###Steps to run:  
+***Steps to run:***  
 1. Install dependencies from `requirements_cpu` or `requirements_gpu` using the following code:  
     ```bash
     pip install -r requirements_cpu.txt
@@ -12,7 +12,7 @@ The front-end is developed from Flask WebApp.
     or 
     ```bash
     pip install -r requirements_gpu.txt
-    ```  
+    ```
    *Note*: If you have a NVIDIA GPU, you must first install the CUDA libraries.  
    *Note*: It is advised to create this project on a python virtual environment(Link-https://docs.python.org/3/tutorial/venv.html).  
     
@@ -34,10 +34,10 @@ The front-end is developed from Flask WebApp.
 
 6. Voilà, you'll get the all the present individuals displayed right on the image taken from Webcam.
 
-###References:
+***References***:
 Facenet and MTCNN model source:"https://github.com/davidsandberg/facenet"
 
-###Team:
+***Team:***
 Aryan Rastogi    
 Ashish Gautam     
 Aditya Bharadwaj   
