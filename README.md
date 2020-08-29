@@ -40,7 +40,7 @@ The front-end is developed from Flask WebApp.
 ***References***:
 Facenet and MTCNN model source:"https://github.com/davidsandberg/facenet"
 
-***Team:***
+***Team:***  
 Aryan Rastogi    
 Ashish Gautam     
 Aditya Bharadwaj   
