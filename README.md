@@ -4,7 +4,7 @@
 This project performs Multi-person face detection using MTCNN, while the main model is trained using Siamese Network(Facenet).  
 The front-end is developed from Flask WebApp.  
 
-**Due to the version of dependencies required to build this project, the version of Python should be mandatorily 3.6.8.**    
+**Due to the version of dependencies required to build this project, the version of Python should mandatorily be 3.6.8.**    
 
 
 ***Steps to run:***  
