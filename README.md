@@ -1,4 +1,4 @@
-## Face_Detection
+## Face Detection Using Facenet
 **Project for IITSoC**
 
 This project performs Multi-person face detection using MTCNN, while the main model is trained using Siamese Network(Facenet).  
