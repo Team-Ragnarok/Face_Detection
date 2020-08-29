@@ -4,6 +4,9 @@
 This project performs Multi-person face detection using MTCNN, while the main model is trained using Siamese Network(Facenet).  
 The front-end is developed from Flask WebApp.  
 
+**Due to the version of dependencies required to build this project, the version of Python should be mandatorily 3.6.8.**    
+
+
 ***Steps to run:***  
 1. Install dependencies from `requirements_cpu` or `requirements_gpu` using the following code:  
     ```bash
@@ -14,7 +17,7 @@ The front-end is developed from Flask WebApp.
     pip install -r requirements_gpu.txt
     ```
    *Note*: If you have a NVIDIA GPU, you must first install the CUDA libraries(Link-http://docs.nvidia.com/cuda/cuda-installation-guide-microsoft-windows/index.html).  
-   *Note*: It is advised to create this project on a python virtual environment(Link-https://docs.python.org/3/tutorial/venv.html).  
+   *Note*: It is advised to create this project on a python virtual environment(Link-https://docs.python.org/3/tutorial/venv.html). 
     
 2. Install the pre-trained model from the link-https://drive.google.com/file/d/0B5MzpY9kBtDVZ2RpVDYwWmxoSUk/edit.  
    Place this model under the model folder such that the path of the model corresponds as:  
