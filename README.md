@@ -8,7 +8,7 @@ The front-end is developed from Flask WebApp.
 
 
 ***Steps to run:***  
-1. Install dependencies from `requirements_cpu` or `requirements_gpu` using the following code:  
+1. Install dependencies from `requirements_cpu.txt` or `requirements_gpu.txt` using the following code:  
     ```bash
     pip install -r requirements_cpu.txt
     ```
