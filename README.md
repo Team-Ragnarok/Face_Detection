@@ -1,5 +1,5 @@
 ## Face Detection Using Facenet
-**Project for IITSoC**
+**Project for IITISoC**
 
 This project performs Multi-person face detection using MTCNN, while the main model is trained using Siamese Network(Facenet).  
 The front-end is developed from Flask WebApp.  
